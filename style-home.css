@@ -1,0 +1,48 @@
+#banner {
+    width: 100%;
+}
+
+.main {
+    background: #cccccc;
+    padding: 30px;
+}
+
+.main-title {
+    padding-left: 20px;
+}
+
+.centralized-title {
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+#mission{
+    font-size: 20px;
+}
+
+em strong {
+    color: red;
+}
+
+.advantadges {
+    background: #FFFFFF;
+    padding: 20px;
+}
+
+.advantadges-item {
+    font-style: italic;
+}
+
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.barber-working-image {
+    width: 50%;
+}
